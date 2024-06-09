@@ -12,7 +12,7 @@ function App() {
 
   return (
     <BrowserRouter>
-      <div className='container mx-auto' >
+      <div className='container mx-auto max-w-[1024px] py-3 bg-zinc-700' >
         <Navigation />
         <Routes>
           <Route path='/' element={<Navigate to="/tasks" />} />

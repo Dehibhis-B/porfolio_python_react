@@ -8,6 +8,7 @@ export default function Navigation() {
         <Link to="/tasks-create" > 
           <button className='bg-indigo-500 px-3 py-1 rounded-lg' >create task</button>
         </Link>
+        <Link to="/me" > <h1>Acerce de Mi</h1></Link>
         
     </div>
   )

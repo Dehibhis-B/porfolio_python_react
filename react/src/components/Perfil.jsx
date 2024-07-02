@@ -10,8 +10,9 @@ export default function Perfil() {
                         alt="DEhibhis Banner"
                         className="w-24 h-24 md:w-32 md:h-32 lg:w-40 lg:h-40 rounded-full"
                     />
-                    <h1 className="md:text-4xl font-[25px] mb-2 md:mb-4 hover:font-bold">Dehibhis Banner</h1>
-                    <h2 className="text-xl md:text-2xl mb-4 md:mb-6">Software Developer</h2>
+                    <h2 className="text-xl2 md:text-2xl mb-4 md:mb-6">Software Developer</h2>
+                    <h1 className=" md:text-4xl font-[25px] mb-2 md:mb-4 hover:font-bold">Dehibhis Banner</h1>
+                    
                     <p className="text-base md:text-lg mb-6 md:mb-8">
                         Full Stack Django & React
                     </p>
